@@ -29,10 +29,15 @@ url: "https://satyakrishnagorti.github.io" # the base hostname & protocol for yo
 twitter_username: satyakrishna_g
 github_username:  satyakrishnagorti
 linkedin_username: satyakrishnagorti
+google_analytics: UA-111674472-1
 # Build settings
 #theme: minima
 plugins:
  - jekyll-feed
+ - jekyll-sitemap
+ - jekyll-seo-tag
+ - jekyll-spaceship
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
