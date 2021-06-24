@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Semi-Supervised Learning: A breif perspective on some recent methods"
+title:  "Semi-Supervised Learning: A brief perspective on some recent methods"
 date:   2021-06-24
 categories: blog
 img1: /blog/assets/blog/semi/1.png
